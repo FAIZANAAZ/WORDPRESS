@@ -1,0 +1,128 @@
+http://localhost/wordpress/wp-admin/post.php?post=10&action=elementor
+HOSTING
+hostinger.com wordpress ki web hosting ke liye best he
+premium peking enough he hmary liye
+
+Installation
+wordpree dawnload ke liye hmy kisi server ki zarort hoti he isi liye hm phly (xampp)ko intall krengy or phir osky zarriye wordpree ko
+toturial=(https://youtu.be/LAx2wh2tBFg?si=Uz-QlQIjvVt0JP3O)
+database *****
+wordpress database password=faiza13579!@#$
+wordpress*****
+name =faiza naaz
+password=FaizaNaaz13579!@#$
+
+WORKING *********************
+dashbord open hony ke bad hm sbsy phly click on click on add plugin =>koi theme select krengy =>intall now =>activate 
+phir baqi themes pr hover krny sy detail likha ayga ospr jakr nichy delete ka option hoga osko delete krdengy bs wo rakhengy jo install ki thi
+phir title dengy => hm oper sy elementer pr click krengy => publish
+title jha likha hoga wha pr sy draft ht jayga ab wo ready ho jayga designing ke liye
+
+//////////////////////////////////////////////////////////////////////////////
+start up in pc***********
+open c folder on file =>click on xamppp and scroll down =>click on xampp-control-panal
+ak window open hogi osmy apache or mysql ko start krengy
+http://localhost/wordpress/wp-admin/post.php?post=10&action=elementor for designing(elemeenter)
+http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s for dashbord
+broswer open krengy or url past krengy =>()
+
+agr ye kan na kry to oper working wala apply krengy 
+
+DIV
++ ke oper click krkrky hm div jis layut me chiye le skty hen 
+
++
+side bar pr jo + ka icon he ospr click krkrky hm heading jis formate me chiye le skty hen  video add kr skty hen images sb 
+hmy chizon ko drigin drop krna hota he jesy ghasid kr lekr ana jha rkhna he 
+
+OR TEXT EDITOR PR JAKR HM PERAGRAPH WGERA AD KRENGY 
+
+font 
+hm whatfont ke name sy ak extention he jisko dwnload krky add krengy apny chrome me add krengy jisy hm jb dekh kr website bnaygy to 
+osky font pr rakhengy hover krengy to wo dikha dega ke konsa font use howa he click krengy to size color sb btayga
+
+or wordpress pr hm heading select krengy to sidebar pr khod show ho jayga style pr click krky colcor sb de skty hen hm 
+
+container(div)*******************
+container ke ander container leny ka tarika 
+hm structure wo ak box he  side bar he osko  open krengy left side bar sy top sy
+phir os container yani div ko click krengy jisky ander hmy lana he new 
+phir +  pr click krengy or container pr click krdengy 
+or oski box ke ander container pr click right click krky osko delete bhi kr skty hen
+
+isi trha hm cotainer pr click krengy or + pr jakr osmy image butoon koch bhi add kr sty hen
+2  iamge krna hoto  2 bhi or skty hen oski position change kr skty hen
+
+Images**************
+jis container me image dali hen os image ko clik krengy =>tab containt=>sidebar sy image pr hover krengy
+chose image => upload file from computer=>select
+or isko hm css me not-repeat rakhengy 
+
+background image*************
+hm container slect krengy => style tab pr jagy =>image pr click krengy background type ke agy likha hoga =>click on +
+
+more images***********
+ak container me agr hmari ak sy zada images dalni ho ak sath o hm image ki jga image gerly select krengy 
+
+Tabs*************
+containt**** me hm kiya likha he text konsi image he ye sb krty hen handle
+style*** me colors font size hight with wagera krty hen handle
+advnces ****me hm peding maeging wagera handle krty hen
+
+hover crolbar********
+peding margin,radius, ismy 4 options hoty hen normally left right wagera agr hm 4 ko alag alg nhi likhna chaty to hm osky braber me ak link ka nshan hota he osko click krengy to alag alag handle kr skty hen nhi krengy to wo ak sath 4ro ko km zada kryga  hm hover sy scrol bar ke zariye tezi sy numer agy pichy bhi kr skty hen yani scroll bar nazr to nhi ata lekin hm osko 
+chlaygy to wo run hoga 
+
+copy & past********
+hm right click krky copy past krengy to wo sari properties ke sath hoga copy past ctrl + c ya p sy container ho jayga bs copy
+
+style copy past ********
+same copy krengy past krty waqt past ki jga past style krdengy 
+lekin hm box ko slect nhi krengy div ko blky pink box to show hota he osko krengy 
+
+text animation *********
+hm adance tab me nichy koch option hongy sbsy nichy motion effects me jakr hm animations dal skty hen 
+
+icons********
+icons bhi hm le skty hen + ke nisham pr jakr 
+or wha icon bhi le sky hen or icon list bhi serch krengy to icon ke agy text bhi likh skengy
+or phir os icon pr sidebar sy hoverkrengy to likha ayga icon library osy jo icon chiye hoga change krlengy =>insert
+osko hm dublicate bhi kr skty hen jesy har line ka ak jesa hi cion he to dublicate kren or text change krden side bar sy 
+
+line********
+liine leney ke liye hm devider le skty hen + pr jakr
+
+gradient **********osmy colrs chose krlengy 
+style tab me jaengy =>background type pr hover krengy radiant likha ayga 
+
+prograss bar******************
+ye bhi ayga + pr 
+
+for view********
+websiite ki trha dekhny ke liye hm phly osko publish krengy top right sy phir jha ankh bani he wha click krengy 
+
+for open dashbord ********
+hm jb view krengy to =>click on laern wordpree =>wha dashbord ka option hoga
+
+overflow hidden*******
+agr scrolbar ayga to krengy 
+wahi ak ak ko hidden krky cheq krengy kismy msla he phir osmy main div select krengy =>layout=>additional option =>overflow hiden
+
+testimonial ************
++ pr jakr milyga lekin phly inatallation krni hogi 
+iski setting me jakr  option hota he  cards kitny rakheny hen oska
+//////////////////////////////////////////////////////////////////////////////
+plugin
+
+for testimonial installation******
+isky liye hm dashbord me aygy =>add plugin pr click krengy side bar sy =>earch krnegy =>elementskit=>install elementskit elementer adone=>activate  =>plugin ke per hi hoga elementskit ospr click krengy =>next nsxt nsxt krky final krdengy  
+
+//////////////////////////////////////////////////////////////////////////////
+**********Responsiveness***********
+HM oper sy tablate or pho ko selet kr skten hen or osy change krdengy to wo dasktop wlaa kharab nhi hoga 
+ismy wo khod bhi accha khasa krky deta he responsive jo pasand na ay wo hm krlengy or ismy card agr desktop pr 4 ary hen or hmy 3 dikhany hen agr khod krky de de to sahi he wrna new bnana pryga lekin hm pora new nhi bnygy bs hm dublicate krky adjust krengy
+
+hm koch sections esy hoty hen jo responsive krny sy achy nhi lgty to hm osko pora layout change kkry dosra bna lety hen or phly waly ko tablate pr hide krdengy or new ko desktop pr 
+
+hide and show**************
+advance tab =>responsive =>phir likha  ayga open close button lekin wo blur ho jayga phir publish krky dekhengy hm thik sy 
