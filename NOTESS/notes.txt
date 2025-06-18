@@ -12,11 +12,6 @@ wordpress*****
 name =faiza naaz
 password=FaizaNaaz13579!@#$
 
-WORKING *********************
-dashbord open hony ke bad hm sbsy phly click on click on add plugin =>koi theme select krengy =>intall now =>activate 
-phir baqi themes pr hover krny sy detail likha ayga ospr jakr nichy delete ka option hoga osko delete krdengy bs wo rakhengy jo install ki thi
-phir title dengy => hm oper sy elementer pr click krengy => publish
-title jha likha hoga wha pr sy draft ht jayga ab wo ready ho jayga designing ke liye
 
 //////////////////////////////////////////////////////////////////////////////
 start up in pc***********
@@ -26,7 +21,19 @@ http://localhost/wordpress/wp-admin/post.php?post=10&action=elementor for design
 http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s for dashbord
 broswer open krengy or url past krengy =>()
 
-agr ye kan na kry to oper working wala apply krengy 
+WORKING *********************
+dashbord open hony ke bad hm sbsy phly click on click on add plugin =>koi theme select krengy =>intall now =>activate 
+phir baqi themes pr hover krny sy detail likha ayga ospr jakr nichy delete ka option hoga osko delete krdengy bs wo rakhengy jo install ki thi
+phir title dengy => hm oper sy elementer pr click krengy => publish
+title jha likha hoga wha pr sy draft ht jayga ab wo ready ho jayga designing ke liye
+
+ADD PAGES******************
+jb bhi koi page bnana start krengy dashbord pr jaengy =>pages=>add pages=>title add title ki jga likhengy home about jo bhi likhry hongy hm =>edit with elementer
+=>seting=>page layput=> elementer with canvas =>start
+
+
+//////////////////////////////////////////////////////////////////////////////
+
 
 DIV
 + ke oper click krkrky hm div jis layut me chiye le skty hen 
@@ -91,9 +98,20 @@ osko hm dublicate bhi kr skty hen jesy har line ka ak jesa hi cion he to dublica
 
 line********
 liine leney ke liye hm devider le skty hen + pr jakr
+isko hm zigzag bna skty hen or bhi bhut koch liine teri meri
 
 gradient **********osmy colrs chose krlengy 
 style tab me jaengy =>background type pr hover krengy radiant likha ayga 
+
+absolute**************
+ye badvance tab me he 
+number counter**************
+jo bhut sary numerber aty hen animated wo a jayga 
+
+dropdawn menu (accordion)************
+accordion ke name sy + me hi ayga
+
+
 
 prograss bar******************
 ye bhi ayga + pr 
@@ -117,6 +135,13 @@ plugin
 for testimonial installation******
 isky liye hm dashbord me aygy =>add plugin pr click krengy side bar sy =>earch krnegy =>elementskit=>install elementskit elementer adone=>activate  =>plugin ke per hi hoga elementskit ospr click krengy =>next nsxt nsxt krky final krdengy  
 
+2 colors text (12 text)**********
++ pr jaygy or sercch krengy text or heading likha hoga Tt bna hoga osko sect rakhengy
+ye do color me de dega text {{}} isky ander jo likhengy hm wo next color me ayga 
+
+from (wpform)*********
+isko hm wahi dashbord=>plugin=>add plugin=>serch wpfrom=>intall =>activate=>+ me jakr serch =>wpform slect =>sidebar sy new form=> koi bhi form slect krky =>
+use template or wahi pr hm apny hisab sy edit krengy =>save
 //////////////////////////////////////////////////////////////////////////////
 **********Responsiveness***********
 HM oper sy tablate or pho ko selet kr skten hen or osy change krdengy to wo dasktop wlaa kharab nhi hoga 
