@@ -30,6 +30,12 @@ title jha likha hoga wha pr sy draft ht jayga ab wo ready ho jayga designing ke 
 ADD PAGES******************
 jb bhi koi page bnana start krengy dashbord pr jaengy =>pages=>add pages=>title add title ki jga likhengy home about jo bhi likhry hongy hm =>edit with elementer
 =>seting=>page layput=> elementer with canvas =>start
+lekin bad me hm elemennter with convace hta kr full wirdh krdengy website ready hony ke bad 
+
+home page /**************
+website bny ke bad agy hmari website ka name koch is trha hota he wwwapk.com lekin kioky hm phly page bnty waqt page ka name rakhty hen home to oska url u hota 
+he koch wwapk.cpm/home lekin home nhi ana chiye osko hm remove krengy esy ke =>save changes krdengy
+hm jaengy dashbord pr =>setting=>reading=>a static page ko slect krengy=>home page me home krdengy
 
 
 //////////////////////////////////////////////////////////////////////////////
@@ -90,6 +96,10 @@ lekin hm box ko slect nhi krengy div ko blky pink box to show hota he osko kreng
 text animation *********
 hm adance tab me nichy koch option hongy sbsy nichy motion effects me jakr hm animations dal skty hen 
 
+button *************
+button bhi + me ayga 
+osky style me ak option hota he link ka osmy hm link past krdengy or link hm nav sy nikalengy
+
 icons********
 icons bhi hm le skty hen + ke nisham pr jakr 
 or wha icon bhi le sky hen or icon list bhi serch krengy to icon ke agy text bhi likh skengy
@@ -129,6 +139,9 @@ wahi ak ak ko hidden krky cheq krengy kismy msla he phir osmy main div select kr
 testimonial ************
 + pr jakr milyga lekin phly inatallation krni hogi 
 iski setting me jakr  option hota he  cards kitny rakheny hen oska
+
+make colors**********
+color box open hoga + pr jaengy or add krdengy koi color or osko name de dengy bar bar copy past nhi krna hoga
 //////////////////////////////////////////////////////////////////////////////
 plugin
 
@@ -142,6 +155,30 @@ ye do color me de dega text {{}} isky ander jo likhengy hm wo next color me ayga
 from (wpform)*********
 isko hm wahi dashbord=>plugin=>add plugin=>serch wpfrom=>intall =>activate=>+ me jakr serch =>wpform slect =>sidebar sy new form=> koi bhi form slect krky =>
 use template or wahi pr hm apny hisab sy edit krengy =>save
+
+
+header or footer **********
+ismy ye hoga ke hm dashborad pr jaengy => elementkit=>header & foter =>footer tab slect=>add new template =>title footer ya agr header hoto wo =>slect footer =>entire site=>on activate =>save changes=>nichy a jayga footer ospr edit pr click krengy =>edit content phir working start
+
+side seting *************
+hm sidebar ke tab me jakr op sy site sting tab open krky ak font ya button style fix kr skty hen phir jb bhi button lengy wahi style ayga agr koch different ho
+to phir hm change krlengy
+
+social icons*********
+sary social icons milengy + r jakr
+
+metform(make form custom form)***********
+dashbord=>plugin=>add plugin=>serch metform=>inatallation=>activate=>click on dashbord sideba metform next next next =>save changes=>
+phir again metform me form pr clcik krengy=>add form =>any name=>edit form=>+me jakr email lengy ya number jo bhi filed chiye form ki or edit krlengy=>
+phir jha use krna ho +pr jakr serch => slect=>editform => save and close
+
+menu bar ******************
+dashbord=>apperience=>menu=>magenge with live preview sy bhi edit kr skty hen agr bna howa ho wrna bna lengy 
+ya nichy edit pr sy bhi hm edit krky ready kr skty hen => ohir wahi + or jaengy or elementer menu slect krengy =>slect menu sy jo name rkha tha wo lengy
+
+
+sticky header**************
+ismy ye hoga ke plugin me jaengy =>sricky for elementer wala krengy=>stricky header intall krengy =>activate=>phir hm bahir manin container ko sleect krengy=>phir advance me akr steraky header a jayga nichy=>osko on krdengy 
 //////////////////////////////////////////////////////////////////////////////
 **********Responsiveness***********
 HM oper sy tablate or pho ko selet kr skten hen or osy change krdengy to wo dasktop wlaa kharab nhi hoga 
