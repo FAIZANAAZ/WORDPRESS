@@ -143,7 +143,12 @@ iski setting me jakr  option hota he  cards kitny rakheny hen oska
 make colors**********
 color box open hoga + pr jaengy or add krdengy koi color or osko name de dengy bar bar copy past nhi krna hoga
 //////////////////////////////////////////////////////////////////////////////
-plugin
+
+
+plugin***********
+
+koch plugins esy hoty hen jo hmary wordpress me nhi hoty to onko google mejakr serch krky dawnload krna hota he or worpress meakr plugin me akr upload plugin krna hota he 
+
 
 for testimonial installation******
 isky liye hm dashbord me aygy =>add plugin pr click krengy side bar sy =>earch krnegy =>elementskit=>install elementskit elementer adone=>activate  =>plugin ke per hi hoga elementskit ospr click krengy =>next nsxt nsxt krky final krdengy  
@@ -151,6 +156,10 @@ isky liye hm dashbord me aygy =>add plugin pr click krengy side bar sy =>earch k
 2 colors text (12 text)**********
 + pr jaygy or sercch krengy text or heading likha hoga Tt bna hoga osko sect rakhengy
 ye do color me de dega text {{}} isky ander jo likhengy hm wo next color me ayga 
+
+currency exchange ************
+currency swiches for woocomerce
+ye jo molk me website open hogi osky motabik price dikhengy rs dolar 
 
 from (wpform)*********
 isko hm wahi dashbord=>plugin=>add plugin=>serch wpfrom=>intall =>activate=>+ me jakr serch =>wpform slect =>sidebar sy new form=> koi bhi form slect krky =>
@@ -179,6 +188,57 @@ ya nichy edit pr sy bhi hm edit krky ready kr skty hen => ohir wahi + or jaengy 
 
 sticky header**************
 ismy ye hoga ke plugin me jaengy =>sricky for elementer wala krengy=>stricky header intall krengy =>activate=>phir hm bahir manin container ko sleect krengy=>phir advance me akr steraky header a jayga nichy=>osko on krdengy 
+
+
+ecomerce*************
+ecomerce ke liye hm woocomerce plugin intall krna hoga 
+
+dONATION WEB *************
+GIVEWP
+
+pyment mentohd*********
+strip wagera bhi plugin hoty hen
+
+seo pluging**********
+aioseo and yosut and rank math
+ye  seo ke lye best hen plugings
+
+for image lazy loading ************
+smush
+
+rediraction**********
+ismy ye hoga ke agr hm apni web ka urlphly dosra ya bad me change krty hen or user ayga to 404 ka error ayga jesy phly tha about ab hmny aboutus krdiya
+to ye bad waly or phly waly sy replace krdyga agr koi about sech kry ya about us osi page pr jayga
+
+monsterinsights***********
+ye google analytics ki jitni report hoti henhmary dashbor dpr wo easy serv krta he 
+
+speed up*********
+roket ye wepsit ki speed ko tez krta he ye google pr jakr serch krna hoag or plugin me akr upload plugin krna hoga
+
+
+ form*************
+dontack form ke liye contact form 7 acha he wpform acha he
+
+for security**************
+jetpak or wordfence
+ye virus bta dega kha he to wo htalo
+
+bakup******
+all in one migration and backup
+
+multi suport language******
+polylang and loco translate
+
+dublicate page*********
+ye pages dublicate krdyga (dublicate page)
+
+customer support live chat *************
+(live chart) ye customer ko live chat krny me help krta he 
+
+cache remover *************
+wp super cache 
+
 //////////////////////////////////////////////////////////////////////////////
 **********Responsiveness***********
 HM oper sy tablate or pho ko selet kr skten hen or osy change krdengy to wo dasktop wlaa kharab nhi hoga 
@@ -188,3 +248,59 @@ hm koch sections esy hoty hen jo responsive krny sy achy nhi lgty to hm osko por
 
 hide and show**************
 advance tab =>responsive =>phir likha  ayga open close button lekin wo blur ho jayga phir publish krky dekhengy hm thik sy 
+
+
+////////////////////////////////
+Errors
+
+white screen of death (wsod)****************
+kabhi kabhi esa hota he website hmara white ho jati he yani sb cleasn ho jata he ye aksar jb ata he jb hm koi plugin hmny crek use kr liya ho ya memory k ho to 
+hm memory increase  krengy
+
+how to fix
+login your wordpres dashboard=>plugin=>install plugin=>bhut sary plugins aygy =>onko select krengy => menubar me deactivate select krengy => applay krengy =>agr website ana start ho jay to matlb ke plugin me problem he 
+ab hm fine krengy ke kismy problame he hm ak ak krky sbko activate krengy to pta lg jayga kismy msla he 
+osko hm uninstall krengy or dosra koi use krengy
+
+tb bhi na ho to hmy ye dashbord sy jakr disable krengy =>overview=>file manager=>wha sari files a jaengy website ki jo bnao thi =>public html=>wp contant=>remane plugins replace with (plugins old )rename or check krengy ke screen ari he web ki to matlb plugin me msla he  =>again renam ekrky plugin krdengy =>sary plugins a jaengy =>phir har plugin ko rename krna he osky sath ya to disable likha he esy (pluginname_disable ya old )likh skty hen hm => ak ak krky cheq krengy sb jismy msla hoga osko deiable krengy or oska update version use krengy 
+agr sb plugins thik hen to thmeme me msla hoga 
+
+agr thems me he msla ********
+dashbord=>plugin=>theme =>sari themes aygi jo active hen osko click krengy ander jakr disable krkrky dekehngy 
+agr nhi howa to same isko bhi plugin ko jesy overviw me jakr kia tha sam oko bhi krengy bs plugin ki jga themes me jaygy 
+
+second problem fix*************
+increase memory
+wahi overview =>file manager  =>public html =>wp.config.php
+nichy ygy line 96 97  =>happy publishing ke nichy=>code add krengy ()=>save krdengy 
+
+ab bhi na hoto
+
+3rd step enabke debug mode************
+wahi overview =>file manager  =>public html =>wp.config.php=>LINE 92 ya 93 define wp_debug=>false hoga osy hm true krdengy =>jo error hoga wo web pr show ho jayga =>phir again osy hm false krdengy dekhny ke bad 
+
+*//************************
+internal server error (500)/*******//////////////////////////
+ye agr ay web pr likha howa to 
+how to fix (remove ceche)********
+(1)conflict ceche
+dashbord=>lifespeed ceche =>top sy icon pr click krengy =>purge all ceche =>ceshe remove ho jayga 
+
+google sy remove krny ke liye ceche *********
+google =>4 dotes =>delete browseing data =>menu bar sy last 24 hours slect krengy =>erosing histoty  check htaengy =>dlete data 
+
+dosra tarika wahi themes or plugin wala krengy 
+
+3rd tarika (corrupted.htaccess)*********
+hmny jobhi host krny ki plugins li he osko check krengy jesy hostinger 
+dashbord=>overview=>file manges me jaengy =>public html=>.htaccess_disable likhengy rename krengy =>new file bnay gy name (.htaccess)=>osi pr click krengy to white file open hogi 
+=>wordpress ki official sidepr jaengy =>basic wp=>copy krengy jo likha he =>file me paste krengy =>save =>wbsite reload 
+
+4th solution (insufficiant php limit)******
+dashbord=>overview=>file manges me jaengy =>public html=>.htccess open=>ak code dalengy
+
+404 Errors*************
+(1)page ka name likhny me koi msla hoga 
+(2)permited link
+dashbord=>seting=>perminents =>click on plain =>save changes
+again post name krky save changes
