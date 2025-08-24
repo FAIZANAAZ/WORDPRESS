@@ -304,3 +304,133 @@ dashbord=>overview=>file manges me jaengy =>public html=>.htccess open=>ak code 
 (2)permited link
 dashbord=>seting=>perminents =>click on plain =>save changes
 again post name krky save changes
+
+
+
+
+
+
+
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+xampp start krengy
+open http://localhost/phpmyadmin/
+left side sy new pr clcik krengy or ak databas bnaygy nam dengy create krdengy
+xamppp=>htdocs=>copy wordpree folder=>past and change name=>open folder and delet wp-config
+faiza
+same name rakhengy database or folder ka
+
+//////////////////
+phir again localhost/os folder ka name Jo hmny htdoc me rkha tha 
+browser me dalengy or enter krengy 
+continue ---letsgo--phir data base ko Jo name rkha tha wo dengy or Jo database bnnty waqt rkha tha name password wo dalengy
+
+or submit krdengy --or run in installed krdengy-- welcome form fill krengy 
+name password sb dalengy yad rakhengy isy isy hi wo access krny Dega again hmy wrna wo wp-config-sample ki file me bhi save hota he 
+
+search engine visibility ko tik nhi krengy bad me krengy JB live krni Hogi --install WordPress --login
+
+again password or name dalengy wo wlaa phir login
+
+//////////////
+
+phir again localhost/os folder ka name Jo hmny htdoc me rkha tha 
+browser me dalengy or enter krengy 
+continue ---letsgo--phir data base ko Jo name rkha tha wo dengy or Jo database bnnty waqt rkha tha name password wo dalengy
+phir dashboard open hoga top left pr likha hoga Dashboard ospr right click krengy or open in new tab krnegy to wha hmari frontend Wala part open hoga hm do tabs open krky rakhengy Kam krty waqt ak frontend or ak backend
+
+
+//////////////////////sidebar/////////
+Appearance**
+hm ismy jakr click krengy to theme ayga likha howa ospr click krny Sy wo hmy hmari themes ki Library me ke jayga jha hmari wo sari themes hongi Jo hmny install ki Hogi
+
+themes ka matlb hota he ak structure Yani jismy wo website ki trha hota he lekin heading hm apny hisab Sy daldengy or picture ki jga kahli Hogi color hm dengy
+
+hm oper add them ya nichy add theme ke + pr click krengy to wo hmy bhut sari themes dikhayga jisme hm search bhi kr skty hen konsi chiye 
+
+jis theme pr install krengy wo library me save ho jayga phir jisko use krna he osko activate krdengy to wo frontend pr a jayga
+
+hm astra wali theme rakhty hen agr blkl new bnana hoto astra name he 
+
+baqi themes ko hm delete kr dety hen warna wo space leti hen load leti Jen bs astra or ak or dosri 
+
+delete 
+kisi bhi theme pr hover krengy  or theme detail me janegy or delete krdengy
+
+Setting******
+Gernal++++++
+WordPress address or side address ko nhi cherna
+
+site name me name dedengy bad me ismy hosting JB kharidengy jis name Sy wo dengy 
+
+date formate me Pakistan ka format time me bhi 
+
+Timezon 
+ismy hm Pakistan ke Liye u+5 select krengy ye important he bhut wrna money transfer me bhi msla a skta he
+
+tagline me description dengy hm Jo url me nazr ATI he
+
+sit icon me web ka icon dengy
+
+ membership me hm agr kisi or ko acces Dena chahy to wo dengy 
+
+role me hm kisi ko role assigned krengy editer poster Yani agr hm chahty hen Roz hmari web me koi posting kry to osko poster ka role dengy
+
+language me ye ke konsi language pr website bnaygy 
+
+Start week me jisy hm start krengy jis din Sy hm web
+
+save changes krdengy
+
+permalinks +++++
+ismy plain Sy tik hta kr hm post name me lagengy 
+plain me wo hmy url me rout 1 2. 3 esy Dega post name Sy wo hmy original name ke Sath Dega home about ke name Sy ayga
+
+ Pages////////////////////////////////
+all pages**
+hmy 2 pages milengy dono ko hm delete krdengy 
+
+add pages me jaygy to wo hmy ak page khol kr Dega jha hm routees ke name rakhengy 
+titile me hm name dengy or publish krdengy to wo hmary header me set ho jayga or agr hm wha Sy ospr click krdengy to ak new rout me bhi Le jayga hmy wo isi trha hm home about ke pages bnaygy
+
+osi page me likha hoga top right pr icons jis pr hm hover krengy or astra setting waly me chly jaygy wha Sy hm os pages ki  default settings krengy 
+
+hm container me page layout ko full width krengy
+sidebar me no sidebar
+disable me hm disable-banerr-area ko on krdengy osy page pr Jo bara bara bich me name likha ata he rout ka wo hat jayga
+save krdengy
+
+ navbar***
+isko bnana ya isko bnany ke bad hmy iski jga tabdil krny he agy pichy to hm 
+Apperience me jaegy sidebar Sy phir menu me or meny structure me name dengy ak meny ka or meny setting me primary menu ko select krky hm creat menu krdengy 
+
+or add menu pr Sy Jo rkhna hoga wo rakhengy baqi delete krdengy or agy phir bny ke bad agy pichy drop dawn krky jha change krdengy
+ hmy JB bhi ye dkehna ho ke ye website WordPress pr bni he ya ksi or PR hm inspect krengy source pr jaengy wha likha hoga
+wp-content, wp-include or themes plugin wagera likha hoga
+
+Custom Menu****
+
+Apperience me jaegy sidebar Sy phir menu me or meny structure me name dengy ak meny ka or meny setting me primary menu ko select krky hm creat menu krdengy 
+
+phir hm add menu me custom Menu pr click krengy or link me # ya jis chiz ka link Dena ho jesy insta wagera wo dengy or link text me name rekhgy or isi trha bnaty jaengy  menu
+
+phir JB header bnygy to  contect me jakr meny setting me jakr select menu me wo name dengy wo hmny rkha tha to wo a jayga
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+hmy JB bhi ye dkehna ho ke ye website WordPress pr bni he ya ksi or PR hm inspect krengy source pr jaengy wha likha hoga
+wp-content, wp-include or themes plugin wagera likha hoga
+
+Custom Menu****
+
+Apperience me jaegy sidebar Sy phir menu me or meny structure me name dengy ak meny ka or meny setting me primary menu ko select krky hm creat menu krdengy 
+
+phir hm add menu me custom Menu pr click krengy or link me # ya jis chiz ka link Dena ho jesy insta wagera wo dengy or link text me name rekhgy or isi trha bnaty jaengy  menu
+
+phir JB header bnygy to  contect me jakr meny setting me jakr select menu me wo name dengy wo hmny rkha tha to wo a jayga
