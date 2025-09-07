@@ -317,7 +317,7 @@ again post name krky save changes
 
 
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////sir taa////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 xampp start krengy
 open http://localhost/phpmyadmin/
@@ -422,8 +422,21 @@ phir hm add menu me custom Menu pr click krengy or link me # ya jis chiz ka link
 
 phir JB header bnygy to  contect me jakr meny setting me jakr select menu me wo name dengy wo hmny rkha tha to wo a jayga
 
+********"
+frontend Sy backend me any ke Liye hm icon pr click krty hen
+********
+plugin
+page bnany ke Liye bhut sary tools ki zarorat Hoti he jisko plugin khty hen 
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+plugin pr click krengy dashboard Sy or sb delete krdengy --add plugin--or elementor ko search krengy --install now--active 
+
+********
+kisi bhi page ko edit krny ke Liye hm all pages me jakr os rout pr click krky edit pr click krdengy
+
+
+
+
+///////////////////////////////////////////////////////////////////paid   *************/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 hmy JB bhi ye dkehna ho ke ye website WordPress pr bni he ya ksi or PR hm inspect krengy source pr jaengy wha likha hoga
 wp-content, wp-include or themes plugin wagera likha hoga
 
@@ -434,3 +447,24 @@ Apperience me jaegy sidebar Sy phir menu me or meny structure me name dengy ak m
 phir hm add menu me custom Menu pr click krengy or link me # ya jis chiz ka link Dena ho jesy insta wagera wo dengy or link text me name rekhgy or isi trha bnaty jaengy  menu
 
 phir JB header bnygy to  contect me jakr meny setting me jakr select menu me wo name dengy wo hmny rkha tha to wo a jayga
+
+hmy kisi page ko edit krna he to all pages pr jaengy or jis page ko edit krna he ospr edit pr click krengy or edit with elementor kedengy
+
++ pr click krky hm Jo chizen rediment use krty hen wo digits/tools khlaty hen
+
+**********************************
+Ultimate adones (header footer )
+isy ye hoga ke Koch chizen Jo paid Hoti hen yha wo free mil jati hen maximum 
+
+elementer edons plugin for elementor Sy laygy for header and footer  UAE ke name Sy hoga install osky Ander header or footer hoga
+
+_____
+header footer pr click krengy add new pr jaengy name dengy header ya footer Jo bnary hongy ab template type me bhi wahi select krengy -- display on me ke Kon konsy pages pr ye header display ho-- add execution role pr click krengy or wo page likhengy jispr nhi chiye header publish-- edit with elementor -- phir + pr click krengy to nichy option ata he ultimate adons ke name Sy jha bhut sari chizen Hoti hen Jo hm use kr skty hen free me --
+
+**********************************
+wp-from for form
+
+1 hi page ko main page bnana 
+setting me jaengy - reading me jaengy or static page select krengy sbsy oper sy or page ka name select krengy or nichy jakr save krlengy
+
+**********************************
